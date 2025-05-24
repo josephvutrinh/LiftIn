@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "backend of liftin",
+  "homepage": "https://github.com/josephvutrinh/LiftIn#readme",
+  "bugs": {
+    "url": "https://github.com/josephvutrinh/LiftIn/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephvutrinh/LiftIn.git"
+  },
+  "license": "ISC",
+  "author": "Joseph-Vu Trinh",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
